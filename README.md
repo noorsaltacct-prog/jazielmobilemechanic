@@ -1,3 +1,13 @@
+# Jaziel Mobile Mechanic — Red & Black Brand Refresh
+
+Updated branding with the supplied red/white gear logo, transparent logo assets and branded favicon. The website uses black, graphite and red throughout, retaining all ten original work photos, the engine-work video, services, service areas and four-step SMS quote flow.
+
+**Deploy:** Upload the contents of this folder to GitHub and import as a static project in Vercel (framework preset **Other**, no build command). Replacing the files in your existing GitHub repository will update the same deployment.
+
+**Business phone:** (443) 500-6987. Quote flow prepares an SMS in the visitor's messaging app; it does not automatically transmit or store data. No fabricated reviews, pricing or certifications.
+
+**Brand assets:** `assets/jaziel-logo.png`, `assets/jaziel-logo-small.png`, `assets/favicon.png`. Page theme: `styles.css` (brand overrides at the end).
+
 # Jaziel Mobile Mechanic | Website
 
 Ready-to-deploy static website for GitHub + Vercel.
